@@ -2,6 +2,8 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-AI%20Development-6c5ce7?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) [![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) [![SimpleJWT](https://img.shields.io/badge/JWT-SimpleJWT-F7DF1E?style=for-the-badge&logo=jsonwebtokens&logoColor=black)](https://django-rest-framework-simplejwt.readthedocs.io/)
 
+本專案目標是模擬實務開發流程，並結合 AI 開發工具（Claude Code）來提升開發效率。
+
 ## 專案簡介
 
 本專案是一個運用Claude Code製作的前後端分離架構， **設計靈感收藏系統（Inspiration Collection System）**，讓使用者可以收藏各類型的設計靈感作品，並進行分類與管理，可支援擴展多使用者資料管理模式。
@@ -202,13 +204,11 @@ backend
 
 ## 開發流程
 
-1. Django 專案建立
-2. models / serializers / viewsets
-3. JWT authentication
-4. Vue 3 前端初始化
-5. Pinia 狀態管理
-6. API 串接
-7. CRUD 完成
+1. 先撰寫 CLAUDE.md 專案需求
+2. 使用 Claude Code 生成後端 Django 架構
+3. 使用 Claude Code 生成Vue3 前端結構
+4. 逐步修正 API 與 UI
+5. 最後整合前後端
 
 ## 未來優化
 
