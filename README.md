@@ -47,11 +47,11 @@
 
 ## 系統架構圖
 
-![mermaid-diagram](https://hackmd.io/_uploads/SJwCYeT-Ge.png)
+<img width="1181" height="1844" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6b42c861-9d7c-48f2-9881-ec65b5f48876" />
 
 ## 資料模型
 
-![inspiration-collection-system](https://hackmd.io/_uploads/ByLL3b6-zg.png)
+<img width="801" height="550" alt="inspiration-collection-system" src="https://github.com/user-attachments/assets/ce895341-2b25-4405-850f-090aae235292" />
 
 ### User（使用者）
 | 欄位名稱   | 型別         | 說明                     |
