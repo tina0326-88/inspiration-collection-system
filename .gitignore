@@ -1,0 +1,57 @@
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Backend (Django)
+# =========================
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/db.sqlite3
+backend/*.sqlite3
+
+# Django migrations (通常不用忽略，但如果你是教學/重建專案可選)
+# backend/**/migrations/__pycache__/
+
+# Django secret key backups
+*.pyc
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Frontend (Vue + Vite)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Mac / Windows
+# =========================
+.DS_Store
+ehthumbs.db
