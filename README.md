@@ -230,14 +230,6 @@ backend
 ### 編輯收藏作品
 <img width="1316" height="849" alt="截圖 2026-06-17 上午10 05 09" src="https://github.com/user-attachments/assets/5d703261-4553-4417-a99f-f3cc55c881c8" />
 
-## 未來優化
-
-- AI 推薦系統
-- 標籤系統（Tags）
-- 公開靈感社群
-- 收藏按讚系統
-- Chrome extension 收藏工具
-
 ## 版權聲明
 
 此專案僅供個人學習與紀錄使用，無授權任何學習教材用途與商業用途。
