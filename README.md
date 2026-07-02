@@ -219,17 +219,6 @@ backend
 4. 逐步修正 API 與 UI
 5. 最後整合前後端
 
-## 前端頁面示意圖
-
-### 作品收藏列表
-<img width="1329" height="723" alt="截圖 2026-06-17 上午10 04 29" src="https://github.com/user-attachments/assets/03148372-148f-4b07-81ac-c84dcd97ae9b" />
-
-### 新增收藏作品
-<img width="1308" height="849" alt="截圖 2026-06-17 上午10 05 33" src="https://github.com/user-attachments/assets/d54d8121-72a3-446b-9d96-a9f8c8cca816" />
-
-### 編輯收藏作品
-<img width="1316" height="849" alt="截圖 2026-06-17 上午10 05 09" src="https://github.com/user-attachments/assets/5d703261-4553-4417-a99f-f3cc55c881c8" />
-
 ## 版權聲明
 
 此專案僅供個人學習與紀錄使用，無授權任何學習教材用途與商業用途。
