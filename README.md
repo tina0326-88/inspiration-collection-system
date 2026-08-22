@@ -32,6 +32,21 @@
 - README 文件優化
 - 前後端專案結構規劃
 
+## 前端頁面示意
+
+### 登入
+
+<img width="2561" height="1155" alt="FireShot Capture 069 - Inspo - 設計靈感收藏 -  localhost" src="https://github.com/user-attachments/assets/9d14b0f6-d2e8-4b35-afa6-1c8f0039ca5b" />
+
+### 註冊帳號
+
+<img width="2561" height="1228" alt="FireShot Capture 070 - Inspo - 設計靈感收藏 -  localhost" src="https://github.com/user-attachments/assets/195d468c-2db6-4d83-a365-aae44604539b" />
+
+### 新增設計收藏
+
+<img width="2561" height="1390" alt="FireShot Capture 071 - Inspo - 設計靈感收藏 -  localhost" src="https://github.com/user-attachments/assets/393d5767-0f25-4d55-9c40-044c94a2d097" />
+
+
 ## 技術架構
 
 ### Frontend
